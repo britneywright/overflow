@@ -31,6 +31,8 @@
 - earn points & badges
 - edit profile
 - can undo vote
+- slug
+- new question helper text (sidebar)
 
 ###Database Models
 - Users
